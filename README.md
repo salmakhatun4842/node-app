@@ -1,4 +1,3 @@
-# node-app
 {
  “name”: “node-app”,
  “description”: “hello jenkins test app”,
